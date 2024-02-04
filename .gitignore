@@ -23,7 +23,7 @@
 .DS_Store
 tsconfig.tsbuildinfo
 
-# env
+.env
 .env.local
 .env.production
 .env.development
